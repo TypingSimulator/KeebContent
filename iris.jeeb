@@ -1,0 +1,1438 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TypingSimulator/KeebSchema/main/keeb.schema.json",
+  "keebName": "iris",
+  "keebDesigner": "Franklin",
+  "keys": [
+    {
+      "id": "escape",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+ESC"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.489,
+        "y": 0.078,
+        "z": 1.97
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": "1",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0031"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.295,
+        "y": 0.078,
+        "z": 1.97
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "2",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0032"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.102,
+        "y": 0.078,
+        "z": 2.007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "3",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0033"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.91,
+        "y": 0.078,
+        "z": 2.025
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "4",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0034"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.721,
+        "y": 0.078,
+        "z": 2.007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "5",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0035"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.529,
+        "y": 0.078,
+        "z": 1.994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "6",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0036"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.522,
+        "y": 0.078,
+        "z": 1.994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "7",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0037"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.716,
+        "y": 0.078,
+        "z": 2.007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "8",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0038"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.9089999,
+        "y": 0.078,
+        "z": 2.025
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "9",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0039"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.101,
+        "y": 0.078,
+        "z": 2.007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "0",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0030"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.29,
+        "y": 0.078,
+        "z": 1.97
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "`",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0060"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.482,
+        "y": 0.078,
+        "z": 1.97
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "tab",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+TAB"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.489,
+        "y": 0.078,
+        "z": 1.778
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "q",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0051"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.295,
+        "y": 0.078,
+        "z": 1.778
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "w",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0057"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.102,
+        "y": 0.078,
+        "z": 1.815
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "e",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0045"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.91,
+        "y": 0.078,
+        "z": 1.833
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "r",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0052"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.721,
+        "y": 0.078,
+        "z": 1.815
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "t",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0054"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.529,
+        "y": 0.078,
+        "z": 1.802
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "y",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0059"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.522,
+        "y": 0.078,
+        "z": 1.802
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "u",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0055"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.716,
+        "y": 0.078,
+        "z": 1.815
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "i",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0049"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.9089999,
+        "y": 0.078,
+        "z": 1.833
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "o",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+004F"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.101,
+        "y": 0.078,
+        "z": 1.815
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "p",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0050"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.29,
+        "y": 0.078,
+        "z": 1.778
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "\\",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+005C"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.482,
+        "y": 0.078,
+        "z": 1.778
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "leftShift",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+SHIFT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.489,
+        "y": 0.078,
+        "z": 1.5873
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "a",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0041"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.295,
+        "y": 0.078,
+        "z": 1.5873
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "s",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0053"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.102,
+        "y": 0.078,
+        "z": 1.6243
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "d",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0044"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.91,
+        "y": 0.078,
+        "z": 1.6423
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "f",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0046"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.721,
+        "y": 0.078,
+        "z": 1.6243
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "g",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0047"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.529,
+        "y": 0.078,
+        "z": 1.6113
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "h",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0048"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.522,
+        "y": 0.078,
+        "z": 1.6113
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "j",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+004A"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.716,
+        "y": 0.078,
+        "z": 1.6243
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "k",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+004B"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.9089999,
+        "y": 0.078,
+        "z": 1.6423
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "l",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+004C"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.101,
+        "y": 0.078,
+        "z": 1.6243
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": ";",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+003B"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.29,
+        "y": 0.078,
+        "z": 1.5873
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "'",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0027"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.482,
+        "y": 0.078,
+        "z": 1.5873
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "leftCtrl",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+CTRL"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.489,
+        "y": 0.078,
+        "z": 1.395
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "z",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+005A"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.295,
+        "y": 0.078,
+        "z": 1.395
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "x",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0058"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.102,
+        "y": 0.078,
+        "z": 1.432
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "c",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0043"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.91,
+        "y": 0.078,
+        "z": 1.45
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "v",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0056"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.721,
+        "y": 0.078,
+        "z": 1.432
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "b",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+0042"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.529,
+        "y": 0.078,
+        "z": 1.419
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "n",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+004E"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.522,
+        "y": 0.078,
+        "z": 1.419
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "m",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+004D"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.716,
+        "y": 0.078,
+        "z": 1.432
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": ",",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+002C"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.9089999,
+        "y": 0.078,
+        "z": 1.45
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": ".",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+002E"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.101,
+        "y": 0.078,
+        "z": 1.432
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "/",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "U+002F"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.29,
+        "y": 0.078,
+        "z": 1.395
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "rightShift",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+SHIFT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.482,
+        "y": 0.078,
+        "z": 1.395
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "null",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.822,
+        "y": 0.078,
+        "z": 1.22
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "leftAlt",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+ALT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.63,
+        "y": 0.078,
+        "z": 1.207
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "null",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.2989494,
+        "y": 0.078,
+        "z": 1.318013
+      },
+      "rotation": {
+        "x": 0,
+        "y": 30.31018,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": " ",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.396,
+        "y": 0.078,
+        "z": 1.152
+      },
+      "rotation": {
+        "x": 0,
+        "y": 30.31018,
+        "z": 0
+      },
+      "groups": ["Space"]
+    },
+    {
+      "id": "null",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.2746875,
+        "y": 0.078,
+        "z": 1.318013
+      },
+      "rotation": {
+        "x": 0,
+        "y": 329.599,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "enter",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+ENTER"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.3719999,
+        "y": 0.078,
+        "z": 1.152
+      },
+      "rotation": {
+        "x": 0,
+        "y": 329.599,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "backspace",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+BACKSPACE"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.6119999,
+        "y": 0.078,
+        "z": 1.207
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "delete",
+      "profile": "DSA_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+DELETE"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.8059999,
+        "y": 0.078,
+        "z": 1.22
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    }
+  ]
+}

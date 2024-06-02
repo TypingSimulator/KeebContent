@@ -1,0 +1,1959 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TypingSimulator/KeebSchema/main/keeb.schema.json",
+  "keebName": "default",
+  "keebDesigner": "Luke",
+  "keys": [
+    {
+      "id": "escape",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "Full",
+          "legendSet": "NotoSans",
+          "glyph": "K+ESC"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.33,
+        "y": 0.174,
+        "z": 2.49
+      },
+      "rotation": {
+        "x": 340.1002,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": "`",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0060"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+007E"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.33,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "1",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0031"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0021"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.14,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "2",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0032"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0040"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.95,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "3",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0033"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0023"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.76,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "4",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0034"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0024"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.57,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "5",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0035"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0025"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.38,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "6",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0036"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+005E"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.19,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "7",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0037"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0026"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.0,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "8",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0038"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+002A"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.19,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "9",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0039"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0028"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.38,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "0",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0030"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0029"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.57,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "-",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+002D"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+005F"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.76,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "=",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+003D"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+002B"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.95,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Numeric"]
+    },
+    {
+      "id": "backspace",
+      "profile": "OEM_R1_2U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+BACKSPACE"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.24,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "insert",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+INSERT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.647,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Navigation"]
+    },
+    {
+      "id": "home",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+HOME"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.836,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Navigation"]
+    },
+    {
+      "id": "pageUp",
+      "profile": "OEM_R1_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+PGUP"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 2.029,
+        "y": 0.082,
+        "z": 2.083
+      },
+      "rotation": {
+        "x": 347.4426,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Navigation"]
+    },
+    {
+      "id": "tab",
+      "profile": "OEM_R2_1p5U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+TAB"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.28,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "q",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0051"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.04,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "w",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0057"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.85,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "e",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0045"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.66,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "r",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0052"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.47,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "t",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0054"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.28,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "y",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0059"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.09,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "u",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0055"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.10,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "i",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0049"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.29,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "o",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+004F"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.48,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "p",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0050"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.67,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "[",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+005B"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+007B"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.86,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "]",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+005D"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+007D"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.05,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "\\",
+      "profile": "OEM_R2_1p5U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+005C"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+007C"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.29,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "delete",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+DELETE"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.639,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Navigation"]
+    },
+    {
+      "id": "end",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+END"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.834,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Navigation"]
+    },
+    {
+      "id": "pageDown",
+      "profile": "OEM_R2_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+PGDN"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 2.024,
+        "y": 0.054,
+        "z": 1.879
+      },
+      "rotation": {
+        "x": 352.3823,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Navigation"]
+    },
+    {
+      "id": "capsLock",
+      "profile": "OEM_R3_1p75U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+PGDN"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.255,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "a",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0041"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.99,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "s",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0053"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.8,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "d",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0044"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.61,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha", "WASD"]
+    },
+    {
+      "id": "f",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0046"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.42,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "g",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0047"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.23,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "h",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0048"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.04,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "j",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+004A"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.15,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "k",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+004B"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.34,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "l",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+004C"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.53,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": ";",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+003B"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+003A"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.72,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "'",
+      "profile": "OEM_R3_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0027"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+0022"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.91,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "enter",
+      "profile": "OEM_R3_2p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+ENTER"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.228,
+        "y": 0.029,
+        "z": 1.678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "leftShift",
+      "profile": "OEM_R4_2p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+SHIFT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.21,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "z",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+005A"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.9,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "x",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0058"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.71,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "c",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0043"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.52,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "v",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0056"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.33,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "b",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+0042"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.14,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "n",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+004E"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.05,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "m",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+004D"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.24,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": ",",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+002C"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+003C"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.43,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": ".",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+002E"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+003E"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.62,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "/",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#CDCDCD",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "UpperLeft",
+          "legendSet": "NotoSans",
+          "glyph": "U+002F"
+        },
+        {
+          "legendPosition": "UpperRight",
+          "legendSet": "NotoSans",
+          "glyph": "U+003F"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.81,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Alpha"]
+    },
+    {
+      "id": "rightShift",
+      "profile": "OEM_R4_2p75U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+SHIFT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.177,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "upArrow",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "K+UP"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.827,
+        "y": 0.023,
+        "z": 1.48
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Arrow"]
+    },
+    {
+      "id": "leftCtrl",
+      "profile": "OEM_R5_1p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+CTRL"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.299,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "null",
+      "profile": "OEM_R5_1p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -1.06,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "leftAlt",
+      "profile": "OEM_R5_1p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+ALT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.82,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": " ",
+      "profile": "OEM_R5_6p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": -0.11,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "null",
+      "profile": "OEM_R5_1p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.61,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "rightAlt",
+      "profile": "OEM_R5_1p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+ALT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 0.851,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "null",
+      "profile": "OEM_R5_1p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.087,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "rightCtrl",
+      "profile": "OEM_R5_1p25U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "FullHeight",
+          "legendSet": "NotoSans",
+          "glyph": "K+CTRL"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.31,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Modifier"]
+    },
+    {
+      "id": "leftArrow",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "K+LEFT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.638,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Arrow"]
+    },
+    {
+      "id": "downArrow",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "K+DOWN"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 1.827,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Arrow"]
+    },
+    {
+      "id": "rightArrow",
+      "profile": "OEM_R4_1U",
+      "keyColor": "#A1A1A1",
+      "keyMaterial": "ABS",
+      "legendColor": "#000000",
+      "legends": [
+        {
+          "legendPosition": "CenterCenter",
+          "legendSet": "NotoSans",
+          "glyph": "K+RIGHT"
+        }
+      ],
+      "keySwitch": "MX_Brown",
+      "position": {
+        "x": 2.024,
+        "y": 0.028,
+        "z": 1.282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "groups": ["Arrow"]
+    }
+  ]
+}

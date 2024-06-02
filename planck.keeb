@@ -1,0 +1,946 @@
+{
+    "$schema": "https://raw.githubusercontent.com/TypingSimulator/KeebSchema/main/keeb.schema.json",
+    "keebName": "planck",
+    "keebDesigner": "Franklin",
+    "keys": [
+        {
+            "id": "tab",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -1.024,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "q",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.8410001,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "w",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.658,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha", "WASD"]
+        },
+        {
+            "id": "e",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.473,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "r",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.2870001,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "t",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.1020001,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "y",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.08400002,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "u",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.2679,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "i",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.4517,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "o",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.6348,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "p",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.8186,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "backspace",
+            "profile": "OEM_R2_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 1.0017,
+                "y": 0.078,
+                "z": 1.878
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "escape",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -1.024,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "a",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.8410001,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha", "WASD"]
+        },
+        {
+            "id": "s",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.658,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha", "WASD"]
+        },
+        {
+            "id": "d",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.473,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha", "WASD"]
+        },
+        {
+            "id": "f",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.2870001,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "g",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.1020001,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "h",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.08400002,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "j",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.2679,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "k",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.4517,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "l",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.6348,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": ";",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.8186,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "'",
+            "profile": "OEM_R3_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 1.0017,
+                "y": 0.078,
+                "z": 1.6948
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "leftShift",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -1.024,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "z",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.8410001,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "x",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.658,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "c",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.473,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "v",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.2870001,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "b",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.1020001,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "n",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.08400002,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "m",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.2679,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": ",",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.4517,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": ".",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.6348,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "/",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.8186,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Alpha"]
+        },
+        {
+            "id": "enter",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 1.0017,
+                "y": 0.078,
+                "z": 1.5092
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -1.024,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "leftCtrl",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.8410001,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "leftAlt",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.658,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.473,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.2870001,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": " ",
+            "profile": "OEM_R1_2U",
+            "keyColor": "#CDCDCD",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": -0.008,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Space"]
+        },
+        {
+            "id": "",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.2679,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Modifier"]
+        },
+        {
+            "id": "leftArrow",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.4517,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Arrow"]
+        },
+        {
+            "id": "downArrow",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.6348,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Arrow"]
+        },
+        {
+            "id": "upArrow",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 0.8186,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Arrow"]
+        },
+        {
+            "id": "rightArrow",
+            "profile": "OEM_R4_1U",
+            "keyColor": "#939393",
+            "legendColor": "#000000",
+            "keyMaterial": "ABS",
+            "legends": [],
+            "keySwitch": "MX_Brown",
+            "position": {
+                "x": 1.0017,
+                "y": 0.078,
+                "z": 1.3263
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "groups": ["Arrow"]
+        }
+    ]
+}
